@@ -11,7 +11,7 @@
 ### 🌟 About Me
 
 - 🎓 I'm currently a freshman majoring in **Computer Science**.
-- 🧠 My research interest lies in **Human-Computer Interaction (HCI)**.
+- 🧠 My research interest lies in **Human-Computer Interaction (HCI)/Virtual Reality（VR）**.
 - ✍️ I enjoy writing course notes, reading research papers.
 - 🌍 Looking forward to doing academic research.Please contact me if your group need an intern.
 
