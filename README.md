@@ -3,7 +3,7 @@
 <p align="center">
   A curious CS freshman | Passionate about Human-Computer Interaction 🤖🎨<br>
   Sharing my learning journey and side projects here 🌱
-  Due to some special reasons I will be transferring to UIUC. Before that I would like to learn more about HCI and gain some research experience, I have enough time to learn related content, if you are looking for interns, please contact me! My email:liuxujia2@gmail.com
+  Due to some special reasons I will be transferring to UIUC. Before that I would like to learn more about HCI and gain some research experience, I'm a self-motivated student and have enough time to learn related knowledge, if you are looking for interns, please contact me! My email:liuxujia2@gmail.com
 </p>
 
 ---
@@ -14,6 +14,13 @@
 - 🧠 My research interest lies in **Human-Computer Interaction (HCI)/Virtual Reality（VR）**.
 - ✍️ I enjoy writing course notes, reading research papers.
 - 🌍 Looking forward to doing academic research.Please contact me if your group need an intern.
+---
+
+### 🧠 Skills
+
+- **Languages**: Python, Matlab, Markdown, LaTeX  
+- **Tools**: Git, GitHub, VS Code, Overleaf  
+- **Currently Learning**: UI/UX Design，HTML & CSS, JavaScript, Data Structures  
 
 ---
 
