@@ -17,10 +17,12 @@
 
 ---
 
-### 📘 Featured Repositories
+### 📘 Course Notes
 
 - [📒 MIT-18.01-Notes-Collection](https://github.com/None-Momo/MIT-18.01-Notes-Collection) – MIT's Single Variable Calculus.
 - [📘 MIT-18.02-Notes-Collection](https://github.com/None-Momo/MIT-18.02-Notes-Collection) – Multivariable Calculus notes.
+- [📝IELTS-Writing-Task](https://github.com/None-Momo/IELTS-Writing-Task) – Notes and summaries from Simon's IELTS writing class.
+
 
 ---
 
