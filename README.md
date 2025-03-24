@@ -3,7 +3,7 @@
 <p align="center">
   A curious CS freshman | Passionate about Human-Computer Interaction 🤖🎨<br>
   Sharing my learning journey and side projects here 🌱
-  Due to some special reasons I will be transferring to UIUC. Before that I would like to learn more about HCI and gain some research experience, I have enough time to learn related content, if you are looking for interns, please contact me!
+  Due to some special reasons I will be transferring to UIUC. Before that I would like to learn more about HCI and gain some research experience, I have enough time to learn related content, if you are looking for interns, please contact me! My email:liuxujia2@gmail.com
 </p>
 
 ---
