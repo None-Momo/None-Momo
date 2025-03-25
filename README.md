@@ -30,11 +30,11 @@
 
 ## 🟦 Course Notes
 
-- 📒 [MIT-18.01-Notes-Collection](https://github.com/None_Momo/MIT-18.01-Notes-CollectionNone_Momo) – MIT's Single Variable Calculus.
-- 🟦 [MIT-18.02-Notes-Collection](https://github.com/None_Momo/MIT-18.02-Notes-Collection) – Multivariable Calculus notes.
-- 📄 [IELTS-Writing-Task](https://github.com/None_Momo/IELTS-Writing-Task) – Notes and summaries from Simon's IELTS writing class.
-- 📘 [GT-Introduction-to-UX-Design-Online](https://github.com/None_Momo/GT-Introduction-to-User-Experience-Design-Online) – Georgia Tech's UX Design course notes.
-- 📘 [Stanford-HCI-Online](https://github.com/None_Momo/Stanford-HCI-Online) – Stanford Human-Computer Interaction notes.
+- 📒 [MIT-18.01-Notes-Collection](https://github.com/None-Momo/MIT-18.01-Notes-CollectionNone_Momo) – MIT's Single Variable Calculus.
+- 🟦 [MIT-18.02-Notes-Collection](https://github.com/None-Momo/MIT-18.02-Notes-Collection) – Multivariable Calculus notes.
+- 📄 [IELTS-Writing-Task](https://github.com/None-Momo/IELTS-Writing-Task) – Notes and summaries from Simon's IELTS writing class.
+- 📘 [GT-Introduction-to-UX-Design-Online](https://github.com/None-Momo/GT-Introduction-to-User-Experience-Design-Online) – Georgia Tech's UX Design course notes.
+- 📘 [Stanford-HCI-Online](https://github.com/None-Momo/Stanford-HCI-Online) – Stanford Human-Computer Interaction notes.
 
 
 ---
