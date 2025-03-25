@@ -1,11 +1,12 @@
 <h1 align="center">Hi there, I'm Xujia Liu 👋</h1>
 
 <p align="center">
-  🌟 A curious CS freshman | Passionate about Human-Computer Interaction (HCI)<br><br>
-  🌱 Sharing my learning journey and side projects here<br><br>
+  🌟 A curious CS freshman | Passionate about Human-Computer Interaction (HCI).<br><br>
+  🌱 Sharing my learning journey and side projects here.<br><br>
   🎓 I'm eager to deepen my understanding of HCI and gain hands-on research experience.<br><br>
-  💡 I'm a self-motivated learner with available time for collaboration or internship opportunities.<br>
-  📧 Feel free to reach out: <a href="mailto:liuxujia2@gmail.com">liuxujia2@gmail.com</a>
+  💡 I'm a self-motivated learner with available time for collaboration or internship opportunities.<br><br>
+  📧 Feel free to reach out: <a href="mailto:liuxujia2@gmail.com">liuxujia2@gmail.com</a><br><br>
+  😊If you found my project helpful, please give me your stars! Your recognition is my biggest encouragement.<br><br>
 </p>
 
 ---
