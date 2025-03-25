@@ -5,8 +5,8 @@
   🌱 Sharing my learning journey and side projects here. <br><br>
   🎓 I'm eager to deepen my understanding of HCI and gain hands-on research experience. <br><br>
   💡 I'm a self-motivated learner with available time for <b>Collaboration</b> or <b>Internship opportunities</b>. <br><br>
-  📧 Feel free to reach out: <a href="mailto:liuxujia2@gmail.com">liuxujia2@gmail.com</a> 💬🤗 <br><br>
-  😊 If you found my project helpful, please give me your stars! ⭐ Your recognition is my biggest encouragement. 💪🌟
+  📧 Feel free to reach out: <a href="mailto:liuxujia2@gmail.com">liuxujia2@gmail.com</a> <br><br>
+  😊 If you found my project helpful, please give me your stars! Your recognition is my biggest encouragement. 💪
 </p>
 
 
