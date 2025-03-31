@@ -52,7 +52,7 @@
 - 📫 Email: liuxujia2@gmail.com  
 - 🤝 Always open to collaborations and learning together!
 
-- ## 🎓 Completed Online Courses
+
 
 
 ## 📜 Certificate
