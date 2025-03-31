@@ -54,11 +54,19 @@
 
 - ## 🎓 Completed Online Courses
 
-### 📘 Introduction to User Experience Design
-- **Institution:** Georgia Institute of Technology (via Coursera) 
-- **Skills:** User-Centered Design, UX Principles, Prototyping, Evaluation
 
-![UX Certificate](assets/ux-cert.png)
+## 📜 Certificate
+
+### 🎓 Introduction to User Experience Design
+- **Institution:** Georgia Institute of Technology 
+- **Skills:** User-Centered Design · UX Prototyping · Evaluation Methods
+
+<p align="center">
+  <img src="assets/UX%20Certificate.png" alt="UX Certificate" width="600"/>
+</p>
+
+
+
 
 
 
