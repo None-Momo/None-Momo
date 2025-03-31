@@ -52,6 +52,17 @@
 - 📫 Email: liuxujia2@gmail.com  
 - 🤝 Always open to collaborations and learning together!
 
+- ## 🎓 Completed Online Courses
+
+### 📘 Introduction to User Experience Design
+- **Institution:** Georgia Institute of Technology (via Coursera) 
+- **Skills:** User-Centered Design, UX Principles, Prototyping, Evaluation
+
+![UX Certificate](assets/ux-cert.png)
+
+
+
+
 ---
 
 <p align="center">
