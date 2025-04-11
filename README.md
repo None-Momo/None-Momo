@@ -22,8 +22,8 @@
 
 ### 🧠 Skills
 
-- **Languages**: Python, Matlab, Markdown, LaTeX  
-- **Tools**: Git, GitHub, VS Code, Overleaf  
+- **Languages**: Python, Matlab, Markdown 
+- **Tools**: Git, GitHub, VS Code, LaTeX, Overleaf  
 - **Currently Learning**: UI/UX Design，HTML & CSS, C# , Unity  
 
 ---
