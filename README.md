@@ -24,7 +24,7 @@
 
 - **Languages**: Python, Matlab, Markdown 
 - **Tools**: Git, GitHub, VS Code, LaTeX, Overleaf  
-- **Currently Learning**: UI/UX Design，HTML & CSS, C# , Unity  
+- **Currently Learning**: UI/UX Design，HTML & CSS, SPSS , C# , Unity  
 
 ---
 
